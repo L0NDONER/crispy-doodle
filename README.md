@@ -35,23 +35,6 @@ You will also need to create an app account on https://dev.twitter.com/apps
     Modify the settings for that app account to allow read & write
     Generate a new OAuth token with those permissions
 
-==================================================================
-I created another python script called keys.py
-in that I set it up excatly like this
-
-#! /usr/bin/python
-keys = dict(
-	
-
-screen_name = "*********",
-    consumer_key = '************************',
-    consumer_secret = '*********************************',
-    access_token = '*******************************',
-)
-
-replace the ******* with your own Twitter API keys
-
-====================================================================
 
 
 
